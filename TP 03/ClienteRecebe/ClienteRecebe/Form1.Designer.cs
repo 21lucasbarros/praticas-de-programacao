@@ -31,8 +31,6 @@
             this.ltbMostra = new System.Windows.Forms.ListBox();
             this.btnEnviar = new System.Windows.Forms.Button();
             this.txtEnvia = new System.Windows.Forms.TextBox();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // ltbMostra
@@ -62,27 +60,16 @@
             this.txtEnvia.TabIndex = 6;
             this.txtEnvia.TextChanged += new System.EventHandler(this.txtEnvia_TextChanged);
             // 
-            // pictureBox1
-            // 
-            this.pictureBox1.Image = global::ClienteRecebe.Properties.Resources.gbm_logo;
-            this.pictureBox1.Location = new System.Drawing.Point(12, 12);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(114, 39);
-            this.pictureBox1.TabIndex = 9;
-            this.pictureBox1.TabStop = false;
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.ltbMostra);
             this.Controls.Add(this.btnEnviar);
             this.Controls.Add(this.txtEnvia);
             this.Name = "Form1";
-            this.Text = "GBM > Mosten";
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            this.Text = "Enviar";
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -93,7 +80,6 @@
         private System.Windows.Forms.ListBox ltbMostra;
         private System.Windows.Forms.Button btnEnviar;
         private System.Windows.Forms.TextBox txtEnvia;
-        private System.Windows.Forms.PictureBox pictureBox1;
     }
 }
 
