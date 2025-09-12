@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\Lucas Barros\\workspace faculdade\\praticas-de-programacao\\TP 01\\TP 01 Grafico\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD358FC2-11CB-40C4-978C-8B6138B0445C}|Prova\\Prova.csproj|c:\\users\\asus\\desktop\\lucas barros\\workspace faculdade\\praticas-de-programacao\\tp 01\\tp 01 grafico\\prova\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD358FC2-11CB-40C4-978C-8B6138B0445C}|Prova\\Prova.csproj|solutionrelative:prova\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD358FC2-11CB-40C4-978C-8B6138B0445C}|Prova\\Prova.csproj|C:\\Users\\Asus\\Desktop\\Lucas Barros\\workspace faculdade\\praticas-de-programacao\\TP 01\\TP 01 Grafico\\prova\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD358FC2-11CB-40C4-978C-8B6138B0445C}|Prova\\Prova.csproj|solutionrelative:prova\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD358FC2-11CB-40C4-978C-8B6138B0445C}|Prova\\Prova.csproj|C:\\Users\\Asus\\Desktop\\Lucas Barros\\workspace faculdade\\praticas-de-programacao\\TP 01\\TP 01 Grafico\\prova\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD358FC2-11CB-40C4-978C-8B6138B0445C}|Prova\\Prova.csproj|solutionrelative:prova\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD358FC2-11CB-40C4-978C-8B6138B0445C}|Prova\\Prova.csproj|C:\\Users\\Asus\\Desktop\\Lucas Barros\\workspace faculdade\\praticas-de-programacao\\TP 01\\TP 01 Grafico\\prova\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD358FC2-11CB-40C4-978C-8B6138B0445C}|Prova\\Prova.csproj|solutionrelative:prova\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD358FC2-11CB-40C4-978C-8B6138B0445C}|Prova\\Prova.csproj|C:\\Users\\Asus\\Desktop\\Lucas Barros\\workspace faculdade\\praticas-de-programacao\\TP 01\\TP 01 Grafico\\prova\\bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD358FC2-11CB-40C4-978C-8B6138B0445C}|Prova\\Prova.csproj|solutionrelative:prova\\bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD358FC2-11CB-40C4-978C-8B6138B0445C}|Prova\\Prova.csproj|C:\\Users\\Asus\\Desktop\\Lucas Barros\\workspace faculdade\\praticas-de-programacao\\TP 01\\TP 01 Grafico\\prova\\vendacliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD358FC2-11CB-40C4-978C-8B6138B0445C}|Prova\\Prova.csproj|solutionrelative:prova\\vendacliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Lucas Barros\\workspace faculdade\\praticas-de-programacao\\TP 01\\TP 01 Grafico\\Prova\\Form1.cs",
+              "RelativeDocumentMoniker": "Prova\\Form1.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Lucas Barros\\workspace faculdade\\praticas-de-programacao\\TP 01\\TP 01 Grafico\\Prova\\Form1.cs [Design]",
+              "RelativeToolTip": "Prova\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T11:43:13.875Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Lucas Barros\\workspace faculdade\\praticas-de-programacao\\TP 01\\TP 01 Grafico\\Prova\\Form1.cs",
+              "RelativeDocumentMoniker": "Prova\\Form1.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Lucas Barros\\workspace faculdade\\praticas-de-programacao\\TP 01\\TP 01 Grafico\\Prova\\Form1.cs",
+              "RelativeToolTip": "Prova\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T11:43:14.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BLL.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Lucas Barros\\workspace faculdade\\praticas-de-programacao\\TP 01\\TP 01 Grafico\\Prova\\BLL.cs",
+              "RelativeDocumentMoniker": "Prova\\BLL.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Lucas Barros\\workspace faculdade\\praticas-de-programacao\\TP 01\\TP 01 Grafico\\Prova\\BLL.cs",
+              "RelativeToolTip": "Prova\\BLL.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAC8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T11:43:14.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Lucas Barros\\workspace faculdade\\praticas-de-programacao\\TP 01\\TP 01 Grafico\\Prova\\Cliente.cs",
+              "RelativeDocumentMoniker": "Prova\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Lucas Barros\\workspace faculdade\\praticas-de-programacao\\TP 01\\TP 01 Grafico\\Prova\\Cliente.cs",
+              "RelativeToolTip": "Prova\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T11:43:14.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DAL.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Lucas Barros\\workspace faculdade\\praticas-de-programacao\\TP 01\\TP 01 Grafico\\Prova\\DAL.cs",
+              "RelativeDocumentMoniker": "Prova\\DAL.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Lucas Barros\\workspace faculdade\\praticas-de-programacao\\TP 01\\TP 01 Grafico\\Prova\\DAL.cs",
+              "RelativeToolTip": "Prova\\DAL.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowEMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T11:43:14.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VendaCliente.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Lucas Barros\\workspace faculdade\\praticas-de-programacao\\TP 01\\TP 01 Grafico\\Prova\\VendaCliente.cs",
+              "RelativeDocumentMoniker": "Prova\\VendaCliente.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Lucas Barros\\workspace faculdade\\praticas-de-programacao\\TP 01\\TP 01 Grafico\\Prova\\VendaCliente.cs",
+              "RelativeToolTip": "Prova\\VendaCliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T11:43:14.193Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
