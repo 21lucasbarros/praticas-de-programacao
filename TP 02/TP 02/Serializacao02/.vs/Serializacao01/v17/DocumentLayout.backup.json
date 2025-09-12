@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\Lucas Barros\\workspace faculdade\\praticas-de-programacao\\TP 02\\TP 02\\Serializacao02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA29DC9C-1FA4-42B9-AC40-6C18FF2D0A3E}|Serializacao01\\Serializacao01.csproj|C:\\Users\\Asus\\Desktop\\Lucas Barros\\workspace faculdade\\praticas-de-programacao\\TP 02\\TP 02\\Serializacao02\\serializacao01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA29DC9C-1FA4-42B9-AC40-6C18FF2D0A3E}|Serializacao01\\Serializacao01.csproj|solutionrelative:serializacao01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA29DC9C-1FA4-42B9-AC40-6C18FF2D0A3E}|Serializacao01\\Serializacao01.csproj|c:\\users\\asus\\desktop\\lucas barros\\workspace faculdade\\praticas-de-programacao\\tp 02\\tp 02\\serializacao02\\serializacao01\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA29DC9C-1FA4-42B9-AC40-6C18FF2D0A3E}|Serializacao01\\Serializacao01.csproj|solutionrelative:serializacao01\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Lucas Barros\\workspace faculdade\\praticas-de-programacao\\TP 02\\TP 02\\Serializacao02\\Serializacao01\\Program.cs",
+              "RelativeDocumentMoniker": "Serializacao01\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Lucas Barros\\workspace faculdade\\praticas-de-programacao\\TP 02\\TP 02\\Serializacao02\\Serializacao01\\Program.cs",
+              "RelativeToolTip": "Serializacao01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T11:50:17.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Lucas Barros\\workspace faculdade\\praticas-de-programacao\\TP 02\\TP 02\\Serializacao02\\Serializacao01\\Livro.cs",
+              "RelativeDocumentMoniker": "Serializacao01\\Livro.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Lucas Barros\\workspace faculdade\\praticas-de-programacao\\TP 02\\TP 02\\Serializacao02\\Serializacao01\\Livro.cs",
+              "RelativeToolTip": "Serializacao01\\Livro.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T11:50:14.773Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
